@@ -41,7 +41,7 @@
 <body>
 
 <h1>Datenschutzerklärung</h1>
-<div class="subtitle">FamilyQuest – Stand: <span class="placeholder">[DATUM EINTRAGEN]</span></div>
+<div class="subtitle">FamilyQuest – Stand: <span class="placeholder">01.07.2026</span></div>
 
 <p>
 Diese Datenschutzerklärung informiert über Art, Umfang und Zweck der Verarbeitung
