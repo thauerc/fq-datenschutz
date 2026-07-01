@@ -1,45 +1,3 @@
-<!DOCTYPE html>
-<html lang="de">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Datenschutzerklärung – FamilyQuest</title>
-<style>
-  body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    max-width: 760px;
-    margin: 0 auto;
-    padding: 32px 20px 80px;
-    color: #1a1228;
-    line-height: 1.6;
-    background: #ffffff;
-  }
-  h1 { color: #7C3AED; font-size: 28px; margin-bottom: 4px; }
-  .subtitle { color: #666; font-size: 14px; margin-bottom: 32px; }
-  h2 { color: #7C3AED; font-size: 19px; margin-top: 36px; }
-  h3 { font-size: 16px; margin-top: 24px; }
-  ul { padding-left: 20px; }
-  li { margin-bottom: 6px; }
-  .placeholder {
-    background: #fff3cd;
-    border: 1px solid #ffe08a;
-    border-radius: 6px;
-    padding: 2px 6px;
-    font-family: monospace;
-    font-size: 14px;
-  }
-  .note {
-    background: #f3effc;
-    border-left: 3px solid #7C3AED;
-    padding: 12px 16px;
-    border-radius: 4px;
-    margin: 16px 0;
-  }
-  footer { margin-top: 48px; font-size: 13px; color: #888; border-top: 1px solid #eee; padding-top: 16px; }
-</style>
-</head>
-<body>
-
 <h1>Datenschutzerklärung</h1>
 <div class="subtitle">FamilyQuest – Stand: <span class="placeholder">01.07.2026</span></div>
 
@@ -51,11 +9,9 @@ personenbezogener Daten innerhalb der mobilen Anwendung „FamilyQuest" (im Folg
 
 <h2>1. Verantwortlicher</h2>
 <p>
-<span class="placeholder">[Vor- und Nachname / Firmenname]</span><br>
-<span class="placeholder">[Straße, Hausnummer]</span><br>
-<span class="placeholder">[PLZ, Ort]</span><br>
-<span class="placeholder">[Land]</span><br>
-E-Mail: <span class="placeholder">[kontakt@deine-domain.de]</span>
+<span class="placeholder">Tower-Productions</span><br>
+<span class="placeholder">Deutschland</span><br>
+E-Mail: <span class="placeholder">tower-productions@gmx.de</span>
 </p>
 
 <h2>2. Welche Daten wir erheben</h2>
